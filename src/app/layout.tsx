@@ -6,8 +6,8 @@ import Navbar from '../components/Navbar';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Backlog | Backspaced",
-  description: "Backlog is a collection of projects that I've worked on.",
+  title: "Projects | Onmates",
+  description: "Showcase of our projects",
 };
 
 export default function RootLayout({

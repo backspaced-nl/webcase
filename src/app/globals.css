@@ -2,6 +2,14 @@
 
 :root {
   --foreground: #171717;
+  --color-indigo-50: #EBF3FF;
+  --color-indigo-100: #D6E7FF;
+  --color-indigo-200: #C2DAFF;
+  --color-indigo-300: #ADCEFF;
+  --color-indigo-400: #4791FF;
+  --color-indigo-600: #0066FF;
+  --color-indigo-700: #005AE0;
+  --color-indigo-800: #0049B8;
 }
 
 @theme inline {
